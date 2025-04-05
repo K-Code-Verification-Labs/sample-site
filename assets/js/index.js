@@ -7,7 +7,7 @@ app.innerHTML = `
 
     <section>
       <h2>Sub Title</h2>
-      <p>lorem  ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, volupt
+      <p>lorem  ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, voluptates.</p>
     </section>
   </div>
 `;
